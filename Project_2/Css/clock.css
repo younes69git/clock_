@@ -3,10 +3,6 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-body {
-  font-family: 'Work Sans', sans-serif;
-  background: red;
-}
 
 .container{
   background-image: url(../Image/vecteezy_abstract-background-gradient-defocused-luxury-vivid-blurred_19077432.jpg);
